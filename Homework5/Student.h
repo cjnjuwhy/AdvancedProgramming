@@ -13,5 +13,5 @@ public:
 
 	void print();
 	Log& addLog(string time, bool in, bool checkCard, bool checkFace = false);
-	int Student::getFace();
+	int getFace();
 };
